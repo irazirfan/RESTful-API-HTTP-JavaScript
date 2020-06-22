@@ -1,1 +1,2 @@
-# RESTful-API-HTTP-JavaScript
+# Kitchen Blue
+### using RESTful API with HTTP & JavaScript
